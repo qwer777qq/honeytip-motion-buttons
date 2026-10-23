@@ -4,6 +4,8 @@
 
 **[움직이는 버튼 직접 보기](https://qwer777qq.github.io/honeytip-motion-buttons/)** · [꿀팁매거진](https://honeytipmagazine.com/)
 
+처음 사용하는 분은 **[한 번에 복사하는 초보자용 프롬프트](docs/BEGINNER_PROMPT.md)**에서 버튼 번호를 골라 요청할 수 있습니다.
+
 | 번호 | 버튼 | 상태 | 움직임 |
 | --- | --- | --- | --- |
 | 1 | 네이비 입체 점프 | 워드프레스 등록 | 크게 떠오르고 화살표가 움직임 |
@@ -30,6 +32,7 @@
 - `assets/`: 노션에 붙일 움직이는 GIF 미리보기와 표지
 - `docs/BENCHMARK.md`: 참고 사례와 독립 구현 기준
 - `docs/DEVELOPMENT_PROMPT.md`: Codex·Claude Code용 실행 프롬프트
+- `docs/BEGINNER_PROMPT.md`: 디자인 번호를 고르고 한 번에 복사하는 초보자용 프롬프트
 
 ## 품질 기준
 
